@@ -22,7 +22,7 @@ menu()
 	echo "|--------------------------------------------|"
 
 # Esse trecho do código é utilizado um controle de fluxo de decisão multipla, case 
-# Onde cada numero chama uma função que será execultada.
+# Onde cada numero chama uma função que será executada.
 
 	read opcao
 	case $opcao in
